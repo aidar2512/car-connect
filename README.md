@@ -15,31 +15,27 @@
 
 Для того чтобы запустить проект на локальной машине, выполните следующие шаги:
 
-1. Клонируйте репозиторий:
 
-    ```bash
-    git clone https://github.com/Mukhanbet/car-connect.git
-    ```
 
-2. Перейдите в директорию проекта:
+1.Перейдите в директорию проекта:
 
     ```bash
     cd car-connect
     ```
 
-3. Скомпилируйте проект:
+2.Скомпилируйте проект:
 
     ```bash
     ./mvnw clean install
     ```
 
-4. Запустите приложение:
+3.Запустите приложение:
 
     ```bash
     ./mvnw spring-boot:run
     ```
 
-5. Перейдите по адресу [http://localhost:8080](http://localhost:2020) для доступа к API.
+4.Перейдите по адресу [http://localhost:8080](http://localhost:2020) для доступа к API.
 
 ## Документация API
 
@@ -50,9 +46,6 @@
 
 Презентацию проекта можно скачать по следующей ссылке: [Презентация проекта (PDF)](https://github.com/Mukhanbet/car_connect/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0%20CarConnect.pdf).
 
-## Демонстрация видео
-
-Посмотрите демонстрацию работы проекта на [YouTube](https://www.youtube.com/watch?v=yourvideoid).
 
 ## Структура проекта
 
